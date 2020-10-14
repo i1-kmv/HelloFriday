@@ -1,0 +1,17 @@
+.navItem {
+    font-weight: 600;
+    min-height: 100%;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000000
+}
+
+.navItem:hover {
+    color: cornflowerblue;
+}
+
+
+.active {
+    color: cornflowerblue;
+}
