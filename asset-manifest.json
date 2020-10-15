@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HelloFriday/static/css/main.7f39c0fa.chunk.css",
+    "main.js": "/HelloFriday/static/js/main.27c88bbe.chunk.js",
+    "main.js.map": "/HelloFriday/static/js/main.27c88bbe.chunk.js.map",
+    "runtime-main.js": "/HelloFriday/static/js/runtime-main.351dbb84.js",
+    "runtime-main.js.map": "/HelloFriday/static/js/runtime-main.351dbb84.js.map",
+    "static/js/2.de41ce22.chunk.js": "/HelloFriday/static/js/2.de41ce22.chunk.js",
+    "static/js/2.de41ce22.chunk.js.map": "/HelloFriday/static/js/2.de41ce22.chunk.js.map",
+    "index.html": "/HelloFriday/index.html",
+    "precache-manifest.eeb200d89e4e8ff4570121140b31ea88.js": "/HelloFriday/precache-manifest.eeb200d89e4e8ff4570121140b31ea88.js",
+    "service-worker.js": "/HelloFriday/service-worker.js",
+    "static/css/main.7f39c0fa.chunk.css.map": "/HelloFriday/static/css/main.7f39c0fa.chunk.css.map",
+    "static/js/2.de41ce22.chunk.js.LICENSE.txt": "/HelloFriday/static/js/2.de41ce22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351dbb84.js",
+    "static/js/2.de41ce22.chunk.js",
+    "static/css/main.7f39c0fa.chunk.css",
+    "static/js/main.27c88bbe.chunk.js"
+  ]
+}
