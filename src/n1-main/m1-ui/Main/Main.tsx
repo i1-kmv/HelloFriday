@@ -26,6 +26,7 @@ const Main: React.FC = () => {
 
             <div>
                 <Button btnName={'Test'} btnType={'green'} onClick={() => alert('test')}/>
+                <Input value={'test'} autoFocus={false} onChange={( ) => alert('value change')}/>
             </div>
 
         </div>
